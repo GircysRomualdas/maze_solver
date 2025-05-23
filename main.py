@@ -2,7 +2,6 @@ from graphics import Window
 from cell import Cell
 from maze import Maze
 
-
 def main():
     num_rows = 12
     num_cols = 16
